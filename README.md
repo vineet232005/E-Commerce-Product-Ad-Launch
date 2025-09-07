@@ -83,7 +83,9 @@ With optimized creatives, targeted audience selection, and strategic budgeting, 
 ---
 
 ## 📂 Project Files  
-- 📑 `https://drive.google.com/drive/folders/1XjtxrgGyoRnb2nX9YpRXDHrZtxI49kOX?usp=sharing` → Presentation  
+📊 [Download Project Presentation (PPTX)](https://drive.google.com/drive/folders/1XjtxrgGyoRnb2nX9YpRXDHrZtxI49kOX?usp=sharing)  
+ – Main presentation file with definitions, examples, and tools.
+ 
 
 
 ---
@@ -91,6 +93,6 @@ With optimized creatives, targeted audience selection, and strategic budgeting, 
 ## ✨ Author  
 👤 **Vineet Kumar Pandey**  
 🎓 BBA, IIT Patna  
-📧 [Your Email/LinkedIn/GitHub Profile Link]  
+📧 vineetkumarpandey23@gmail.com
 
 ---
